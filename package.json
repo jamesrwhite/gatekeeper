@@ -10,7 +10,7 @@
   "author": "",
   "license": "MIT",
   "dependencies": {
-    "hapi": "^8.4.0",
+    "hapi": "^18.1.0",
     "limiter": "^1.0.5",
     "lodash": "^3.5.0",
     "moment": "^2.9.0",
