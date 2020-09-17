@@ -12,7 +12,7 @@
   "dependencies": {
     "hapi": "^8.4.0",
     "limiter": "^1.0.5",
-    "lodash": "^3.5.0",
+    "lodash": "^4.17.20",
     "moment": "^2.9.0",
     "node-etcd": "^4.0.1"
   }
